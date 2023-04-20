@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>charan</title>
+<style><style>
+</head>
+<body>
+<h1>Charan
+<button>HOME</button>
+<button text.align="centre">BIO/button>
+<button>portfolio</button>
+<button>Skills</button></h1>
+<centre><p>I Believe IN</p><br><br>
+<h1>EAT();SLEEP();CODE();REPEAT();</p></centre>
+<h1 align="right">I am a passionate Engineer with a degree in Electronics & Communication Engineering. My very first experience with code was at the time when I started my own blog. My struggle to customize the blog pages introduced me to HTML & CSS. Sooner, the excitment of having the power to structure pages on my own sounded amazing and that’s when I decided to purse Web development.
+
+Recently, I learnt Full Stack Development. I have knowledge of HTML, CSS and JavaScript, Java, C++ and Data Structures. Rational thought process and goal-oriented planning are my strengths.
+
+I am currently on the look out for a challenging role to build products that make a difference.</h1><br>
+<centre><Download My Resume </button><centre>
+<h1 align="centre">PORTFOLIO</h1>
+<h1 align="centre">Some of my best projects so far</h1>
+<h1 align="centre"______________________________________________</h1>
+<centre><h1><button>PERSONEL BLOG</button>      <button>TIC TAC TOE</button>           <button>TIME TABLE GENERATOR</button>
+<button>
+</body>
+</html>
+
